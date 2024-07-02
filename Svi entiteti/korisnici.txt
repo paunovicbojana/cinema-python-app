@@ -1,0 +1,7 @@
+stevan|123456|Stevan|Paunović|Kupac|1400.0
+filip|123456|Filip|Paunović|Kupac|1300.0
+niksa|123456|Nikša|Čvorović|Kupac|900.0
+lenka|123456|Lenka|Nikolić|Kupac|900.0
+sonja|123456|Sonja|Stojanović|Kupac|900.0
+miki|123456|Miomir|Dujanović|Kupac|900.0
+jovana|123456|Jovana|Dodić|Kupac|5805.0

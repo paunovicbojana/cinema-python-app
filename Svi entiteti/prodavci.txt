@@ -1,0 +1,3 @@
+ivana|123456|Ivana|Paunović|Prodavac|
+svetlana|123456|Svetlana|Perić|Prodavac|
+denis|123456|Denis|Bujas|Prodavac|

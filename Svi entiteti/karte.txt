@@ -1,0 +1,57 @@
+1000|stevan|1005AB|1-A|13.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1001|stevan|1005AB|1-B|13.01.2024.|PRODATA|VALIDNA|svetlana|450.0|Registrovani kupac
+1002|stevan|1005AB|1-C|13.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1003|filip|1000AD|3-I|13.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1004|Petar Petrović|1001AE|1-A|13.01.2024.|PRODATA|VALIDNA|ivana|400.0|Neregistrovani kupac
+1005|Petar Petrović|1001AE|1-B|13.01.2024.|PRODATA|VALIDNA|ivana|400.0|Neregistrovani kupac
+1006|filip|1010AB|1-B|13.01.2024.|PRODATA|VALIDNA|ivana|450.0|Registrovani kupac
+1007|filip|1010AB|1-C|13.01.2024.|PRODATA|VALIDNA|ivana|450.0|Registrovani kupac
+1008|sonja|1006AB|1-I|13.01.2024.|PRODATA|VALIDNA|denis|450.0|Registrovani kupac
+1009|niksa|1003AE|2-D|13.01.2024.|PRODATA|VALIDNA|svetlana|450.0|Registrovani kupac
+1010|niksa|1003AE|2-E|13.01.2024.|PRODATA|VALIDNA|svetlana|450.0|Registrovani kupac
+1011|Veljko Veljković|1005AE|4-C|13.01.2024.|PRODATA|VALIDNA|svetlana|450.0|Neregistrovani kupac
+1012|Marko Marković|1009AA|3-A|13.01.2024.|REZERVISANA|NEVALIDNA|||Neregistrovani kupac
+1013|Marko Marković|1009AA|3-B|13.01.2024.|REZERVISANA|NEVALIDNA|||Neregistrovani kupac
+1014|lenka|1003AE|2-C|13.01.2024.|PRODATA|VALIDNA|denis|450.0|Registrovani kupac
+1015|lenka|1003AE|2-B|13.01.2024.|PRODATA|VALIDNA|denis|450.0|Registrovani kupac
+1016|miki|1011AB|4-G|13.01.2024.|PRODATA|VALIDNA|denis|450.0|Registrovani kupac
+1017|miki|1011AB|4-F|13.01.2024.|PRODATA|VALIDNA|denis|450.0|Registrovani kupac
+1018|sonja|1011AB|3-C|13.01.2024.|PRODATA|VALIDNA|denis|450.0|Registrovani kupac
+1019|Bojan Bojanić|1010AE|5-F|13.01.2024.|PRODATA|VALIDNA|denis|450.0|Neregistrovani kupac
+1020|jovana|1003AF|3-A|13.01.2024.|PRODATA|VALIDNA|denis|500.0|Registrovani kupac
+1021|jovana|1003AF|3-B|13.01.2024.|PRODATA|VALIDNA|denis|500.0|Registrovani kupac
+1022|jovana|1003AF|3-D|13.01.2024.|PRODATA|VALIDNA|denis|500.0|Registrovani kupac
+1023|stevan|1007AF|1-E|14.01.2024.|PRODATA|VALIDNA|ivana|500.0|Registrovani kupac
+1024|jovana|1003AF|3-C|14.01.2024.|PRODATA|VALIDNA|ivana|500.0|Registrovani kupac
+1025|jovana|1003AF|3-E|14.01.2024.|PRODATA|VALIDNA|ivana|500.0|Registrovani kupac
+1026|jovana|1003AF|3-F|14.01.2024.|PRODATA|VALIDNA|ivana|500.0|Registrovani kupac
+1027|jovana|1003AF|3-G|14.01.2024.|PRODATA|VALIDNA|ivana|500.0|Registrovani kupac
+1028|jovana|1003AF|3-H|14.01.2024.|PRODATA|VALIDNA|ivana|500.0|Registrovani kupac
+1029|jovana|1003AF|3-I|14.01.2024.|PRODATA|VALIDNA|ivana|500.0|Registrovani kupac
+1030|filip|1004AA|4-C|14.01.2024.|PRODATA|NEVALIDNA|ivana|400.0|Registrovani kupac
+1031|sonja|1004AA|1-A|14.01.2024.|REZERVISANA|NEVALIDNA|||Registrovani kupac
+1032|sonja|1004AA|1-B|14.01.2024.|REZERVISANA|NEVALIDNA|||Registrovani kupac
+1033|sonja|1004AA|1-C|14.01.2024.|REZERVISANA|NEVALIDNA|||Registrovani kupac
+1034|Stefan Stefanović|1011AD|1-F|14.01.2024.|PRODATA|VALIDNA|ivana|450.0|Neregistrovani kupac
+1035|Stefan Stefanović|1011AD|1-G|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1036|jovana|1011AA|3-A|14.01.2024.|PRODATA|NEVALIDNA|svetlana|450.0|Registrovani kupac
+1037|jovana|1011AA|4-A|14.01.2024.|PRODATA|NEVALIDNA|svetlana|450.0|Registrovani kupac
+1038|jovana|1011AA|1-A|14.01.2024.|PRODATA|NEVALIDNA|denis|405.0|Registrovani kupac
+1039|Janko Janković|1004AF|4-D|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1040|Janko Janković|1004AF|4-E|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1041|sonja|1005AE|3-F|14.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1042|sonja|1005AE|3-G|14.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1043|lenka|1008AE|2-F|14.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1044|lenka|1008AE|2-G|14.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1045|Stevan Stevanović|1003AH|3-C|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1046|Stevan Stevanović|1003AH|3-D|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1047|Stevan Stevanović|1003AH|3-E|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1048|Stevan Stevanović|1003AH|3-F|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1049|Stevan Stevanović|1003AH|3-G|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1050|Stevan Stevanović|1003AH|3-H|14.01.2024.|REZERVISANA|VALIDNA|||Neregistrovani kupac
+1051|niksa|1009AI|1-D|14.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1052|niksa|1009AI|1-E|14.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1053|miki|1002AE|1-A|14.01.2024.|REZERVISANA|VALIDNA|||Registrovani kupac
+1054|miki|1002AE|1-B|14.01.2024.|REZERVISANA|NEVALIDNA|||Registrovani kupac
+1055|miki|1002AE|1-C|14.01.2024.|REZERVISANA|NEVALIDNA|||Registrovani kupac
+1056|stevan|1011AC|1-A|17.01.2024.|PRODATA|VALIDNA|ivana|450.0|Registrovani kupac
